@@ -1,4 +1,29 @@
-header {
-    background-color: aquamarine;
-    height: max-content;
+.banner {
+  height: 200px;
+  background-image: url(../img/pattern.png);
+  background-color: lightskyblue;
+  background-repeat: repeat;
+  width: 100%;
 }
+
+.h1-head {
+    color: aliceblue;
+}
+
+.gray {
+    color: gray;
+}
+
+.light-blue {
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
